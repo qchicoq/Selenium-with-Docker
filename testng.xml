@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Automation Suite" verbose="1" >
+    <test name="Regression" >
+        <classes>
+            <class name="com.tribe.tat.NavigationTest" />
+        </classes>
+    </test>
+
+    <test name="Smoke">
+        <classes>
+            <class name="com.tribe.tat.NavigationTestTwo"/>
+        </classes>
+    </test>
+</suite>

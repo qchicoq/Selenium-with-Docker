@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Suite" duration-ms="49781" started-at="2017-01-02T23:32:24Z" finished-at="2017-01-02T23:33:14Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="33743" started-at="2017-01-02T23:32:24Z" finished-at="2017-01-02T23:32:58Z">
+      <class name="com.tribe.tat.NavigationTest">
+        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="5598" started-at="2017-01-02T23:32:25Z" data-provider="getData" finished-at="2017-01-02T23:32:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.co.uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSite -->
+        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="3631" started-at="2017-01-02T23:32:30Z" data-provider="getData" finished-at="2017-01-02T23:32:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSite -->
+        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="4852" started-at="2017-01-02T23:32:34Z" data-provider="getData" finished-at="2017-01-02T23:32:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.co.uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteFour -->
+        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="3909" started-at="2017-01-02T23:32:39Z" data-provider="getData" finished-at="2017-01-02T23:32:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteFour -->
+        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="3833" started-at="2017-01-02T23:32:43Z" data-provider="getData" finished-at="2017-01-02T23:32:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.co.uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteThree -->
+        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="4063" started-at="2017-01-02T23:32:46Z" data-provider="getData" finished-at="2017-01-02T23:32:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteThree -->
+        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3921" started-at="2017-01-02T23:32:50Z" data-provider="getData" finished-at="2017-01-02T23:32:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.co.uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteTwo -->
+        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3912" started-at="2017-01-02T23:32:54Z" data-provider="getData" finished-at="2017-01-02T23:32:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteTwo -->
+      </class> <!-- com.tribe.tat.NavigationTest -->
+    </test> <!-- Regression -->
+    <test name="Smoke" duration-ms="16000" started-at="2017-01-02T23:32:58Z" finished-at="2017-01-02T23:33:14Z">
+      <class name="com.tribe.tat.NavigationTestTwo">
+        <test-method status="PASS" signature="CanNavigateToSite()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSite" duration-ms="3925" started-at="2017-01-02T23:32:58Z" finished-at="2017-01-02T23:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSite -->
+        <test-method status="PASS" signature="CanNavigateToSiteFour()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteFour" duration-ms="4129" started-at="2017-01-02T23:33:02Z" finished-at="2017-01-02T23:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteFour -->
+        <test-method status="PASS" signature="CanNavigateToSiteThree()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteThree" duration-ms="3831" started-at="2017-01-02T23:33:06Z" finished-at="2017-01-02T23:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteThree -->
+        <test-method status="PASS" signature="CanNavigateToSiteTwo()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteTwo" duration-ms="4113" started-at="2017-01-02T23:33:10Z" finished-at="2017-01-02T23:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanNavigateToSiteTwo -->
+      </class> <!-- com.tribe.tat.NavigationTestTwo -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
