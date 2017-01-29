@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
   <reporter-output>
   </reporter-output>
-  <suite name="Automation Suite" duration-ms="49781" started-at="2017-01-02T23:32:24Z" finished-at="2017-01-02T23:33:14Z">
+  <suite name="Automation Suite" duration-ms="45408" started-at="2017-01-28T22:37:16Z" finished-at="2017-01-28T22:38:01Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="33743" started-at="2017-01-02T23:32:24Z" finished-at="2017-01-02T23:32:58Z">
+    <test name="Regression" duration-ms="30705" started-at="2017-01-28T22:37:16Z" finished-at="2017-01-28T22:37:47Z">
       <class name="com.tribe.tat.NavigationTest">
-        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="5598" started-at="2017-01-02T23:32:25Z" data-provider="getData" finished-at="2017-01-02T23:32:30Z">
+        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="4776" started-at="2017-01-28T22:37:16Z" data-provider="getData" finished-at="2017-01-28T22:37:21Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSite -->
-        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="3631" started-at="2017-01-02T23:32:30Z" data-provider="getData" finished-at="2017-01-02T23:32:34Z">
+        <test-method status="PASS" signature="CanNavigateToSite(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSite" duration-ms="3719" started-at="2017-01-28T22:37:21Z" data-provider="getData" finished-at="2017-01-28T22:37:24Z">
           <params>
             <param index="0">
               <value>
@@ -29,7 +29,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSite -->
-        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="4852" started-at="2017-01-02T23:32:34Z" data-provider="getData" finished-at="2017-01-02T23:32:39Z">
+        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="3728" started-at="2017-01-28T22:37:24Z" data-provider="getData" finished-at="2017-01-28T22:37:28Z">
           <params>
             <param index="0">
               <value>
@@ -40,7 +40,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteFour -->
-        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="3909" started-at="2017-01-02T23:32:39Z" data-provider="getData" finished-at="2017-01-02T23:32:43Z">
+        <test-method status="PASS" signature="CanNavigateToSiteFour(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteFour" duration-ms="3649" started-at="2017-01-28T22:37:28Z" data-provider="getData" finished-at="2017-01-28T22:37:32Z">
           <params>
             <param index="0">
               <value>
@@ -51,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteFour -->
-        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="3833" started-at="2017-01-02T23:32:43Z" data-provider="getData" finished-at="2017-01-02T23:32:46Z">
+        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="3711" started-at="2017-01-28T22:37:32Z" data-provider="getData" finished-at="2017-01-28T22:37:35Z">
           <params>
             <param index="0">
               <value>
@@ -62,7 +62,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteThree -->
-        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="4063" started-at="2017-01-02T23:32:46Z" data-provider="getData" finished-at="2017-01-02T23:32:50Z">
+        <test-method status="PASS" signature="CanNavigateToSiteThree(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteThree" duration-ms="3717" started-at="2017-01-28T22:37:35Z" data-provider="getData" finished-at="2017-01-28T22:37:39Z">
           <params>
             <param index="0">
               <value>
@@ -73,7 +73,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteThree -->
-        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3921" started-at="2017-01-02T23:32:50Z" data-provider="getData" finished-at="2017-01-02T23:32:54Z">
+        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3673" started-at="2017-01-28T22:37:39Z" data-provider="getData" finished-at="2017-01-28T22:37:43Z">
           <params>
             <param index="0">
               <value>
@@ -84,7 +84,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteTwo -->
-        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3912" started-at="2017-01-02T23:32:54Z" data-provider="getData" finished-at="2017-01-02T23:32:58Z">
+        <test-method status="PASS" signature="CanNavigateToSiteTwo(java.lang.String)[pri:0, instance:com.tribe.tat.NavigationTest@3796751b]" name="CanNavigateToSiteTwo" duration-ms="3707" started-at="2017-01-28T22:37:43Z" data-provider="getData" finished-at="2017-01-28T22:37:47Z">
           <params>
             <param index="0">
               <value>
@@ -97,21 +97,21 @@
         </test-method> <!-- CanNavigateToSiteTwo -->
       </class> <!-- com.tribe.tat.NavigationTest -->
     </test> <!-- Regression -->
-    <test name="Smoke" duration-ms="16000" started-at="2017-01-02T23:32:58Z" finished-at="2017-01-02T23:33:14Z">
+    <test name="Smoke" duration-ms="14643" started-at="2017-01-28T22:37:47Z" finished-at="2017-01-28T22:38:01Z">
       <class name="com.tribe.tat.NavigationTestTwo">
-        <test-method status="PASS" signature="CanNavigateToSite()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSite" duration-ms="3925" started-at="2017-01-02T23:32:58Z" finished-at="2017-01-02T23:33:02Z">
+        <test-method status="PASS" signature="CanNavigateToSite()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSite" duration-ms="3650" started-at="2017-01-28T22:37:47Z" finished-at="2017-01-28T22:37:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSite -->
-        <test-method status="PASS" signature="CanNavigateToSiteFour()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteFour" duration-ms="4129" started-at="2017-01-02T23:33:02Z" finished-at="2017-01-02T23:33:06Z">
+        <test-method status="PASS" signature="CanNavigateToSiteFour()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteFour" duration-ms="3704" started-at="2017-01-28T22:37:50Z" finished-at="2017-01-28T22:37:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteFour -->
-        <test-method status="PASS" signature="CanNavigateToSiteThree()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteThree" duration-ms="3831" started-at="2017-01-02T23:33:06Z" finished-at="2017-01-02T23:33:10Z">
+        <test-method status="PASS" signature="CanNavigateToSiteThree()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteThree" duration-ms="3651" started-at="2017-01-28T22:37:54Z" finished-at="2017-01-28T22:37:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteThree -->
-        <test-method status="PASS" signature="CanNavigateToSiteTwo()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteTwo" duration-ms="4113" started-at="2017-01-02T23:33:10Z" finished-at="2017-01-02T23:33:14Z">
+        <test-method status="PASS" signature="CanNavigateToSiteTwo()[pri:0, instance:com.tribe.tat.NavigationTestTwo@79698539]" name="CanNavigateToSiteTwo" duration-ms="3637" started-at="2017-01-28T22:37:58Z" finished-at="2017-01-28T22:38:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CanNavigateToSiteTwo -->
